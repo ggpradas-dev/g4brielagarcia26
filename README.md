@@ -4,8 +4,8 @@ Soy Gabriela, desarrolladora Full Stack apasionada por el aprendizaje y la progr
 
 Aquí subiré las cosillas que vaya haciendo 👀
 
-- 🌐 Habilidades: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB.
+- 🌐 Habilidades: HTML, CSS, JavaScript, Angular, React, Node.js, Express, MongoDB.
 - 💼 LinkedIn: [/g4brielagarcia26]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/g4brielagarcia26/))
-- 🌱 Aprendiendo y mejorando habilidades en React, Angular y Spring.
+- 🌱 Aprendiendo y mejorando habilidades en Angular y React.
 
-Gracias por visitar mi perfil de GitHub. ✨ ¡Hablemos y colaboremos en proyectos interesantes! 😄
+Gracias por visitar mi perfil de GitHub. ✨
